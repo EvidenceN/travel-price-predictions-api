@@ -2,6 +2,8 @@
 
 API APP link - https://travel-price-predictions-api.herokuapp.com
 
+Here is the link to the Video demonstrating how the app works - https://youtu.be/d7R2ISBwxJ8
+
 ## Team Members and Contribution
 
 ### Evidence Nwangwa
